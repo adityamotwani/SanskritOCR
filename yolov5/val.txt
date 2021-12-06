@@ -1,0 +1,5 @@
+sanskrit/images/val/0001.jpg
+sanskrit/images/val/0002.jpg
+sanskrit/images/val/0003.jpg
+sanskrit/images/val/0004.jpg
+sanskrit/images/val/0005.jpg
